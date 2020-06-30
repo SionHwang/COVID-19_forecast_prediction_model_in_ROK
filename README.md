@@ -1,4 +1,6 @@
-본 레포지터리는 cpprhtn의 Corona-19_analysis-prediction 에서 영어와 한국어로 같이 서술한 버전이다.
+본 프로젝트는 cpprhtn의 Corona-19_analysis-prediction 에서 영어와 한국어로 같이 서술한 버전이다.
+
+- [cpprhtn](https://github.com/cpprhtn/Corona-19_analysis-prediction/)
 
 
 # COVID-19_forecast_prediction_model_in_ROK
