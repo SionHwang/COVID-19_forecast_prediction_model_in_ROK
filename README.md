@@ -10,7 +10,7 @@ upload R, Python code and dataset(.csv)
 writing report
 
 # 코로나19 한국에서의 전망 예측 모델
-기여자 sionhwang, cpprhtn
+기여자 [sionhwang](https://github.com/SionHwang), [cpprhtn](https://github.com/cpprhtn)
 
 R,Python 코드 그리고 데이터 셋 파일 업로드
 보고서 
